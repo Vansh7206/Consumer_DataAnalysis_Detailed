@@ -1,5 +1,5 @@
-Customer Shopping Dataset – Analytics & Power BI Dashboard
-📌 Project Overview
+<h1>Customer Shopping Dataset – Analytics & Power BI Dashboard</h1>
+##📌 Project Overview
 
 This project focuses on analyzing a Customer Shopping Dataset to uncover insights about customer behavior, purchase patterns, product performance, discounts, and location-based trends.
 The analysis was completed using Python (Pandas) and visualized through a Power BI interactive dashboard.
@@ -7,36 +7,21 @@ The analysis was completed using Python (Pandas) and visualized through a Power 
 The goal of the project is to extract meaningful insights that can support data-driven decisions in marketing, sales strategy, inventory management, and user engagement.
 
 🗂️ Dataset Description
-
 The dataset includes:
-
-Customer ID
-
-Gender
-
-Location
-
-Item Purchased
-
-Category
-
-Purchase Amount (USD)
-
-Review Rating
-
-Discount Applied
-
-Promo Code Used
-
-Purchase Date
-
-Last Purchase Date
-
-Additional engineered columns:
-
-days_since_last_purchase
-
-purchase_month
+- Customer ID
+- Gender
+- Location
+- Item Purchased
+- Category
+- Purchase Amount (USD)
+- Review Rating
+- Discount Applied
+- Promo Code Used
+- Purchase Date
+- Last Purchase Date
+-- Additional engineered columns:
+- days_since_last_purchase
+- purchase_month
 
 🧼 Data Cleaning & Preprocessing
 
