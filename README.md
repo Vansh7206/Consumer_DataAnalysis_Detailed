@@ -12,7 +12,6 @@ The dataset includes:
 
 2. Gender
 
-
 3. Location
 
 4. Item Purchased
@@ -60,39 +59,39 @@ Key steps performed:
 
 The main analysis covered:
 
-- Customer Analysis
+1. Customer Analysis
 
-- Gender distribution
+2. Gender distribution
 
-- Location distribution
+3. Location distribution
 
-- Repeat purchase behavior
+4. Repeat purchase behavior
 
-- Product & Category Analysis
+5. Product & Category Analysis
 
-- Top-selling items
+6. Top-selling items
 
-- Top categories by revenue
+7. Top categories by revenue
 
-- Highest rated products
+8. Highest rated products
 
-- Products most dependent on discounts
+9. Products most dependent on discounts
 
-- Discount & Promotion Impact
+10. Discount & Promotion Impact
 
-- % of purchases using discounts
+11. % of purchases using discounts
 
-- Most discount-sensitive categories
+12. Most discount-sensitive categories
 
-- Effect of promo codes on revenue
+13. Effect of promo codes on revenue
 
-- Location Insights
+14. Location Insights
 
-- Top 5 locations by revenue
+15. Top 5 locations by revenue
 
-- Revenue contribution per city
+16. Revenue contribution per city
 
-- High-value customer concentration
+17. High-value customer concentration
 
 <h3>📈 Power BI Dashboard</h3>
 
