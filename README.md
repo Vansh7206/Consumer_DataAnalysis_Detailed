@@ -7,33 +7,21 @@ The goal of the project is to extract meaningful insights that can support data-
 
 <h3>🗂️ Dataset Description</h3>
 The dataset includes:
+1.  Customer ID
+2. Gender
+3. Location
+4. Item Purchased
+5. Category
+6. Purchase Amount (USD)
+7. Review Rating
+8. Discount Applied
+9. Promo Code Used
+10. Purchase Date
+11. Last Purchase Date
 
-- Customer ID
-- Gender
-- Location
-
-- Item Purchased
-
-- Category
-
-- Purchase Amount (USD)
-
-- Review Rating
-
-- Discount Applied
-
-- Promo Code Used
-
-- Purchase Date
-
-- Last Purchase Date
-
--- Additional engineered columns:
-
-- days_since_last_purchase
-
-- purchase_month
-
+-- Additional engineered columns--
+12. days_since_last_purchase
+13. purchase_month
 
 <h3>🧼 Data Cleaning & Preprocessing</h3>
 
