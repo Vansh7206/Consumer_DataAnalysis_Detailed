@@ -9,9 +9,7 @@ The goal of the project is to extract meaningful insights that can support data-
 The dataset includes:
 
 - Customer ID
-
 - Gender
-
 - Location
 
 - Item Purchased
