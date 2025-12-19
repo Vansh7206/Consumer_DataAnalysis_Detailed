@@ -62,7 +62,7 @@ The main analysis covered:
 
 A fully interactive Power BI dashboard was built to visualize:
 🧠 Key Insights:
-![alt text](image.png)
+![alt text](images/image.png)
 
 <h3>🛠️ Tech Stack</h3>
 
