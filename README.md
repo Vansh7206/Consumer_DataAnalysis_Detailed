@@ -22,6 +22,7 @@ The goal of the project is to extract meaningful insights that can support data-
 11. Last Purchase Date
 
 -- Additional engineered columns--
+
 12. days_since_last_purchase
 13. purchase_month
 
