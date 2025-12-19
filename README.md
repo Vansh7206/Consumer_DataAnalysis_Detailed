@@ -6,91 +6,55 @@ The analysis was completed using Python (Pandas) and visualized through a Power 
 The goal of the project is to extract meaningful insights that can support data-driven decisions in marketing, sales strategy, inventory management, and user engagement.
 
 <h3>🗂️ Dataset Description</h3>
-The dataset includes:
+
+- The dataset includes:
 
 1.  Customer ID
-
 2. Gender
-
 3. Location
-
 4. Item Purchased
-
 5. Category
-
 6. Purchase Amount (USD)
-
 7. Review Rating
-
 8. Discount Applied
-
 9. Promo Code Used
-
 10. Purchase Date
-
 11. Last Purchase Date
 
 -- Additional engineered columns--
-
 12. days_since_last_purchase
-
 13. purchase_month
 
 <h3>🧼 Data Cleaning & Preprocessing</h3>
-
 Key steps performed:
 
 - Converted all date columns to proper datetime format
-
 - Handled missing values in date fields
-
 - Standardized numeric fields
-
 - Created useful derived columns for analysis
-
 - Removed invalid or duplicate entries
-
 - Ensured category consistency
-
 - Performed summary statistics and EDA
-
 
 <h3>📊 Exploratory Data Analysis</h3>
 
 The main analysis covered:
-
 1. Customer Analysis
-
 2. Gender distribution
-
 3. Location distribution
-
 4. Repeat purchase behavior
-
 5. Product & Category Analysis
-
 6. Top-selling items
-
 7. Top categories by revenue
-
 8. Highest rated products
-
 9. Products most dependent on discounts
-
 10. Discount & Promotion Impact
-
 11. % of purchases using discounts
-
 12. Most discount-sensitive categories
-
 13. Effect of promo codes on revenue
-
 14. Location Insights
-
 15. Top 5 locations by revenue
-
 16. Revenue contribution per city
-
 17. High-value customer concentration
 
 <h3>📈 Power BI Dashboard</h3>
@@ -102,24 +66,16 @@ A fully interactive Power BI dashboard was built to visualize:
 <h3>🛠️ Tech Stack</h3>
 
 1. Python → Data Cleaning & EDA
-
 2. Pandas / NumPy / Matplotlib
-
 3. Power BI → Dashboard & Visualization
-
 
 <h3>🚀 How to Use</h3>
 
 1. Clone the repository
-
 2. Open the Jupyter notebook to review the analysis
-
 3. Load the .pbix file in Power BI Desktop
-
 4. View and interact with the dashboard
-
 5. Export visuals or integrate into presentations
-
 
 <h3>🤝 Contributing</h3>
 
